@@ -1,4 +1,4 @@
-# Python_practise_100day
+# Study_Notes
 
 ## 更新规则
 
